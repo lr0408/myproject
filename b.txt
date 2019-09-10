@@ -1,4 +1,2 @@
-bbbbbbbbbbbbbbbbb
-
-iiiiii
-oooooo
+bbb
+ccc
